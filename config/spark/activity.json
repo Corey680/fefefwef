@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Nethroveil",
+      "uniqueId": "e412765c-85dd-36be-8cbf-1aae85adcbcf"
+    },
+    "time": 1740863709228,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/DVAJUrScER"
+    }
+  }
+]

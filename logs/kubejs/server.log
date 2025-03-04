@@ -1,0 +1,148 @@
+[01:52:11] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[01:52:11] [INIT] Loaded plugins:
+[01:52:11] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[01:52:11] [INIT] - net.threetag.palladium.compat.kubejs.PalladiumKubeJSPlugin
+[01:52:11] [INIT] - com.tom.createores.kubejs.KubeJSExcavation
+[01:52:17] [INFO] example.js#5: Hello, World! (Loaded server scripts)
+[01:52:17] [INFO] Loaded script server_scripts:example.js in 0.002 s
+[01:52:17] [INFO] Loaded script addonpack_p_sing:kubejs_scripts/teleport_command.js in 0.003 s
+[01:52:17] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/symbiotes_items.js in 0.005 s
+[01:52:17] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/symbiote_spawn.js in 0.0 s
+[01:52:17] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/symbiote_assigner.js in 0.006 s
+[01:52:17] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/strong_punch.js in 0.0 s
+[01:52:17] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/speedforce_assigner.js in 0.002 s
+[01:52:17] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/skin_change.js in 0.001 s
+[01:52:17] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/random_power_items.js in 0.005 s
+[01:52:17] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/random_power_2.js in 0.004 s
+[01:52:17] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/random_power.js in 0.003 s
+[01:52:17] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/radiant_black_robot_spawn.js in 0.001 s
+[01:52:17] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/radiant_black.js in 0.0 s
+[01:52:17] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/mutation_assigner.js in 0.004 s
+[01:52:17] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/kaiju_spawner.js in 0.001 s
+[01:52:17] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/items.js in 0.01 s
+[01:52:17] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/inhibitor_collars.js in 0.0 s
+[01:52:17] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/data_enderchest.js in 0.0 s
+[01:52:17] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/custom_commands.js in 0.008 s
+[01:52:17] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/config.js in 0.001 s
+[01:52:17] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/blueprints.js in 0.001 s
+[01:52:17] [INFO] Loaded script addonpack_fsang_hero:kubejs_scripts/ad_astra_space.js in 0.0 s
+[01:52:17] [INFO] Loaded script addonpack_heroes:kubejs_scripts/toggle_theft.js in 0.001 s
+[01:52:17] [INFO] Loaded script addonpack_heroes:kubejs_scripts/toggle_hud.js in 0.0 s
+[01:52:17] [INFO] Loaded script addonpack_heroes:kubejs_scripts/spatial_travel_command.js in 0.0 s
+[01:52:17] [INFO] Loaded script addonpack_heroes:kubejs_scripts/prevent_death.js in 0.001 s
+[01:52:17] [INFO] addonpack_heroes:kubejs_scripts/prevent_damage.js#8: Loaded Java class 'net.minecraft.network.protocol.game.ClientboundSetEntityMotionPacket'
+[01:52:17] [INFO] Loaded script addonpack_heroes:kubejs_scripts/prevent_damage.js in 0.003 s
+[01:52:17] [INFO] Loaded script addonpack_heroes:kubejs_scripts/intuitive_teach.js in 0.001 s
+[01:52:17] [INFO] Loaded script addonpack_heroes:kubejs_scripts/heroes_superpower_command.js in 0.001 s
+[01:52:17] [INFO] Loaded script addonpack_heroes:kubejs_scripts/clairvoyance.js in 0.004 s
+[01:52:17] [INFO] Loaded script addonpack_sgoc:kubejs_scripts/wiki.js in 0.0 s
+[01:52:17] [INFO] Loaded script addonpack_sgoc:kubejs_scripts/toggle_tp.js in 0.0 s
+[01:52:17] [INFO] Loaded script addonpack_sgoc:kubejs_scripts/skill_points.js in 0.009 s
+[01:52:17] [INFO] Loaded script addonpack_sgoc:kubejs_scripts/reality_tool.js in 0.001 s
+[01:52:17] [INFO] Loaded script addonpack_sgoc:kubejs_scripts/reality_armor.js in 0.001 s
+[01:52:17] [INFO] Loaded script addonpack_sgoc:kubejs_scripts/prevent_damage.js in 0.001 s
+[01:52:17] [INFO] Loaded script addonpack_sgoc:kubejs_scripts/power_command.js in 0.0 s
+[01:52:17] [INFO] Loaded script addonpack_sgoc:kubejs_scripts/nodrop.js in 0.0 s
+[01:52:17] [INFO] Loaded script addonpack_sgoc:kubejs_scripts/max_energy.js in 0.0 s
+[01:52:17] [INFO] Loaded script addonpack_sgoc:kubejs_scripts/create_item.js in 0.0 s
+[01:52:17] [INFO] Loaded script addonpack_sgoc:kubejs_scripts/check_adaptation.js in 0.0 s
+[01:52:17] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/demon/demon_hearts.js in 0.0 s
+[01:52:17] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/generic/immortality.js in 0.001 s
+[01:52:17] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/generic/base_eye_remove.js in 0.001 s
+[01:52:17] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/generic/teleport.js in 0.0 s
+[01:52:17] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/generic/invulnerability.js in 0.001 s
+[01:52:17] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/generic/stat_scan.js in 0.001 s
+[01:52:17] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/generic/immortality2.js in 0.0 s
+[01:52:17] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/generic/dynamic_damage_particle.js in 0.0 s
+[01:52:17] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/generic/food_eaten.js in 0.001 s
+[01:52:17] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/generic/module.js in 0.001 s
+[01:52:17] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/generic/attribute_limiter.js in 0.0 s
+[01:52:17] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/generic/invulnerability_counterable.js in 0.0 s
+[01:52:17] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/generic/logged_out.js in 0.0 s
+[01:52:17] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/energy_bar.js in 0.0 s
+[01:52:17] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/items/ancient_relic.js in 0.001 s
+[01:52:17] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/items/eye_of_balor.js in 0.001 s
+[01:52:17] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/inherit_special_technique.js in 0.006 s
+[01:52:17] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/goddess/possess_damage_taken.js in 0.0 s
+[01:52:17] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/creative_items.js in 0.004 s
+[01:52:17] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_technique/limitless/six_eyes.js in 0.001 s
+[01:52:17] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_technique/bubble/bubble_dome.js in 0.001 s
+[01:52:17] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_technique/combo_star/combo_star.js in 0.001 s
+[01:52:17] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_technique/ominous_nebula/full_react.js in 0.0 s
+[01:52:17] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_technique/geass_absolute_obedience/geass_slave.js in 0.002 s
+[01:52:17] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_technique/full_counter_physical/full_counter.js in 0.0 s
+[01:52:17] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_technique/byakugan/byakugan_abilities.js in 0.0 s
+[01:52:17] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_technique/six_tails/slip.js in 0.001 s
+[01:52:17] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_technique/six_tails/slip_beast_form.js in 0.0 s
+[01:52:17] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_technique/full_counter_magical/revenge_counter.js in 0.0 s
+[01:52:17] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_technique/sharingan/sharingan_use_time.js in 0.001 s
+[01:52:17] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_technique/sharingan/sharingan_abilities.js in 0.0 s
+[01:52:17] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_technique/sharingan/sharingan_genjutsu_hurt.js in 0.001 s
+[01:52:17] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_technique/sharingan/susanoo_damage_taken.js in 0.0 s
+[01:52:17] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_technique/sharingan/kamui_pull.js in 0.0 s
+[01:52:17] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_technique/sharingan/sharingan_copy_remove.js in 0.0 s
+[01:52:17] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_technique/sharingan/genjutsu_cancel_damage.js in 0.0 s
+[01:52:17] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_technique/l_drago/damage_taken.js in 0.0 s
+[01:52:17] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_technique/l_drago/power_punch.js in 0.001 s
+[01:52:17] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_technique/l_drago/damage_dealt.js in 0.0 s
+[01:52:17] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_technique/rinnegan/rinnegan_revive.js in 0.001 s
+[01:52:17] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_technique/rinnegan/rinnegan_scan.js in 0.0 s
+[01:52:17] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_technique/sunshine/sunshine_unrestrained.js in 0.002 s
+[01:52:17] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_technique/shrine/reincarnation.js in 0.0 s
+[01:52:17] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_technique/limit_breaker/one_punch.js in 0.0 s
+[01:52:17] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_technique/limit_breaker/damage_taken.js in 0.001 s
+[01:52:17] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_technique/limit_breaker/damage_dealt.js in 0.0 s
+[01:52:17] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_powers/the_destroyer/the_destroyer.js in 0.001 s
+[01:52:17] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_powers/commandments/commandment_chat.js in 0.001 s
+[01:52:17] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_powers/the_creator/weather_change.js in 0.0 s
+[01:52:17] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_powers/the_creator/the_creator.js in 0.0 s
+[01:52:17] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_powers/the_creator/the_creator_revive.js in 0.001 s
+[01:52:17] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/technique_removal.js in 0.006 s
+[01:52:17] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/fairy/enchantment_hard_protection.js in 0.0 s
+[01:52:17] [INFO] Loaded 94/94 KubeJS server scripts in 0.164 s with 0 errors and 0 warnings
+[01:52:17] [INFO] Scripts loaded
+[01:52:17] [INFO] Initializing recipe event...
+[01:52:25] [INFO] Processing recipes...
+[01:52:25] [WARN] Failed to parse recipe 'knights_of_britannia:forces_of_the_universe[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[01:52:25] [WARN] Failed to parse recipe 'knights_of_britannia:knight_helmet_v1[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[01:52:25] [WARN] Failed to parse recipe 'knights_of_britannia:explosive_matter[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[01:52:25] [WARN] Failed to parse recipe 'knights_of_britannia:knight_chestplate_v1[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[01:52:25] [WARN] Failed to parse recipe 'knights_of_britannia:knight_leggings_v1[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[01:52:25] [WARN] Failed to parse recipe 'knights_of_britannia:knight_boots_v1[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[01:52:25] [INFO] Found 9699 recipes in 254.9 ms
+[01:52:25] [INFO] Posted recipe events in 7.089 ms
+[01:52:26] [WARN] Error parsing recipe knights_of_britannia:explosive_matter[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","pattern":["###","#G#","###"],"key":{"#":{"item":"minecraft:tnt"},"G":{"item":"minecraft:glowstone"}},"result":{"item":"knights_of_britannia:explosive_matter","count":1}}: Unknown item 'knights_of_britannia:explosive_matter'
+[01:52:26] [WARN] Error parsing recipe knights_of_britannia:forces_of_the_universe[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","pattern":["###","NNN","EEE"],"key":{"#":{"item":"minecraft:tnt"},"N":{"item":"minecraft:nether_star"},"E":{"item":"minecraft:ender_pearl"}},"result":{"item":"knights_of_britannia:forces_of_the_universe","count":1}}: Unknown item 'knights_of_britannia:forces_of_the_universe'
+[01:52:26] [WARN] Error parsing recipe knights_of_britannia:knight_helmet_v1[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","pattern":["iIi","iKi","i i"],"key":{"i":{"item":"minecraft:iron_ingot"},"I":{"item":"minecraft:iron_nugget"},"K":{"item":"knights_of_britannia:steel_helmet"}},"result":{"item":"knights_of_britannia:knight_helmet_v1","count":1}}: Unknown item 'knights_of_britannia:knight_helmet_v1'
+[01:52:26] [WARN] Error parsing recipe alexsdelight:barbecue_on_a_stick[minecraft:crafting_shapeless]: {"group":"barbecue_stick","type":"minecraft:crafting_shapeless","ingredients":[{"item":"farmersdelight:tomato"},{"item":"farmersdelight:onion"},{"item":"amfd:singular_cooked_moose_rib"},{"item":"minecraft:cooked_chicken"},{"item":"minecraft:stick"},{"item":"minecraft:stick"}],"result":{"item":"farmersdelight:barbecue_stick","count":2}}: Unknown item 'amfd:singular_cooked_moose_rib'
+[01:52:26] [WARN] Error parsing recipe knights_of_britannia:knight_leggings_v1[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","pattern":["###","iKi","###"],"key":{"#":{"item":"minecraft:lapis_lazuli"},"i":{"item":"minecraft:iron_ingot"},"K":{"item":"knights_of_britannia:steel_leggings"}},"result":{"item":"knights_of_britannia:knight_leggings_v1","count":1}}: Unknown item 'knights_of_britannia:knight_leggings_v1'
+[01:52:26] [WARN] Error parsing recipe knights_of_britannia:knight_chestplate_v1[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","pattern":["igi","LKL","iLi"],"key":{"i":{"item":"minecraft:iron_ingot"},"g":{"item":"minecraft:gold_ingot"},"L":{"item":"minecraft:lapis_lazuli"},"K":{"item":"knights_of_britannia:steel_chestplate"}},"result":{"item":"knights_of_britannia:knight_chestplate_v1","count":1}}: Unknown item 'knights_of_britannia:knight_chestplate_v1'
+[01:52:26] [WARN] Error parsing recipe knights_of_britannia:knight_boots_v1[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","pattern":[" # ","IKI","   "],"key":{"#":{"item":"minecraft:lapis_lazuli"},"I":{"item":"minecraft:iron_nugget"},"K":{"item":"knights_of_britannia:steel_boots"}},"result":{"item":"knights_of_britannia:knight_boots_v1","count":1}}: Unknown item 'knights_of_britannia:knight_boots_v1'
+[01:52:26] [INFO] Added 14 recipes, removed 0 recipes, modified 6 recipes, with 7 failed recipes in 339.1 ms
+[01:52:32] [INFO] Server resource reload complete!
+[01:52:33] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[01:52:33] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#64: Config file loaded or created at config/fsang_config.json
+[01:53:01] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[01:53:01] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: ScooterAnkle2212
+[01:53:01] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as ScooterAnkle2212 run scoreboard objectives add FSang.Gamerule.item dummy
+[01:53:02] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as ScooterAnkle2212 run scoreboard players set .sang FSang.Gamerule.item 1
+[01:53:02] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as ScooterAnkle2212 run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[01:53:02] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as ScooterAnkle2212 run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[01:53:41] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[01:53:41] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: onetrueinterlude
+[01:53:41] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as onetrueinterlude run scoreboard objectives add FSang.Gamerule.item dummy
+[01:53:41] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as onetrueinterlude run scoreboard players set .sang FSang.Gamerule.item 1
+[01:53:41] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as onetrueinterlude run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[01:53:41] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as onetrueinterlude run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[01:53:55] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[01:53:55] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: Nethroveil
+[01:53:55] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as Nethroveil run scoreboard objectives add FSang.Gamerule.item dummy
+[01:53:55] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as Nethroveil run scoreboard players set .sang FSang.Gamerule.item 1
+[01:53:55] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as Nethroveil run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[01:53:55] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as Nethroveil run scoreboard players set .sang FSang.Gamerule.symbiote 1
+[01:55:32] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#18: Config file found. Loading config from config/fsang_config.json
+[01:55:32] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#57: Applying config to player: onetrueinterlude
+[01:55:32] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#36: Running command: execute as onetrueinterlude run scoreboard objectives add FSang.Gamerule.item dummy
+[01:55:32] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#39: Running command: execute as onetrueinterlude run scoreboard players set .sang FSang.Gamerule.item 1
+[01:55:32] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#47: Running command: execute as onetrueinterlude run scoreboard objectives add FSang.Gamerule.symbiote dummy
+[01:55:32] [INFO] addonpack_fsang_hero:kubejs_scripts/config.js#50: Running command: execute as onetrueinterlude run scoreboard players set .sang FSang.Gamerule.symbiote 1

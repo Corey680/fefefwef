@@ -1,0 +1,238 @@
+{
+	"level_seeds": [
+		{
+			"dim": "speedforce_by_yofadda:the_negative_speedforce",
+			"seed": -268657859759867628
+		},
+		{
+			"dim": "ad_astra:mercury_orbit",
+			"seed": -268657859759867628
+		},
+		{
+			"dim": "mahoutsukai:reality_marble",
+			"seed": -268657859759867628
+		},
+		{
+			"dim": "minecraft:the_end",
+			"seed": -268657859759867628
+		},
+		{
+			"dim": "ad_astra:glacio_orbit",
+			"seed": -268657859759867628
+		},
+		{
+			"dim": "ad_astra:mars_orbit",
+			"seed": -268657859759867628
+		},
+		{
+			"dim": "createteleporters:pocket_dimension",
+			"seed": -268657859759867628
+		},
+		{
+			"dim": "ad_astra_dh:hoz_2_o",
+			"seed": -268657859759867628
+		},
+		{
+			"dim": "minecraft:knights_of_britannia/kamui_dimension",
+			"seed": -268657859759867628
+		},
+		{
+			"dim": "ad_astra:venus",
+			"seed": -268657859759867628
+		},
+		{
+			"dim": "sgoc:pocket_dimension",
+			"seed": -268657859759867628
+		},
+		{
+			"dim": "sgoc:reality_warp",
+			"seed": -268657859759867628
+		},
+		{
+			"dim": "ad_astra:mars",
+			"seed": -268657859759867628
+		},
+		{
+			"dim": "fsang:speedforce",
+			"seed": -268657859759867628
+		},
+		{
+			"dim": "heroes:pocket_dimension",
+			"seed": -268657859759867628
+		},
+		{
+			"dim": "minecraft:the_nether",
+			"seed": -268657859759867628
+		},
+		{
+			"dim": "speedforce_by_yofadda:the_speedforce",
+			"seed": -268657859759867628
+		},
+		{
+			"dim": "ad_astra:moon",
+			"seed": -268657859759867628
+		},
+		{
+			"dim": "ad_astra:moon_orbit",
+			"seed": -268657859759867628
+		},
+		{
+			"dim": "minecraft:overworld",
+			"seed": -268657859759867628
+		},
+		{
+			"dim": "ad_astra:venus_orbit",
+			"seed": -268657859759867628
+		},
+		{
+			"dim": "fsang:pocket_dimension",
+			"seed": -268657859759867628
+		},
+		{
+			"dim": "ad_astra:mercury",
+			"seed": -268657859759867628
+		},
+		{
+			"dim": "ad_astra_dh:trash_x_1",
+			"seed": -268657859759867628
+		},
+		{
+			"dim": "ad_astra:earth_orbit",
+			"seed": -268657859759867628
+		},
+		{
+			"dim": "fsang:the_radiant",
+			"seed": -268657859759867628
+		},
+		{
+			"dim": "fsang:negative_speedforce",
+			"seed": -268657859759867628
+		},
+		{
+			"dim": "ad_astra:glacio",
+			"seed": -268657859759867628
+		},
+		{
+			"dim": "witherstormmod:bowels",
+			"seed": -268657859759867628
+		}
+	],
+	"structure_seeds": [
+		{
+			"dim": "speedforce_by_yofadda:the_negative_speedforce",
+			"seed": -268657859759867628
+		},
+		{
+			"dim": "ad_astra:mercury_orbit",
+			"seed": -268657859759867628
+		},
+		{
+			"dim": "mahoutsukai:reality_marble",
+			"seed": -268657859759867628
+		},
+		{
+			"dim": "minecraft:the_end",
+			"seed": -268657859759867628
+		},
+		{
+			"dim": "ad_astra:glacio_orbit",
+			"seed": -268657859759867628
+		},
+		{
+			"dim": "ad_astra:mars_orbit",
+			"seed": -268657859759867628
+		},
+		{
+			"dim": "createteleporters:pocket_dimension",
+			"seed": -268657859759867628
+		},
+		{
+			"dim": "ad_astra_dh:hoz_2_o",
+			"seed": -268657859759867628
+		},
+		{
+			"dim": "minecraft:knights_of_britannia/kamui_dimension",
+			"seed": -268657859759867628
+		},
+		{
+			"dim": "ad_astra:venus",
+			"seed": -268657859759867628
+		},
+		{
+			"dim": "sgoc:pocket_dimension",
+			"seed": -268657859759867628
+		},
+		{
+			"dim": "sgoc:reality_warp",
+			"seed": -268657859759867628
+		},
+		{
+			"dim": "ad_astra:mars",
+			"seed": -268657859759867628
+		},
+		{
+			"dim": "fsang:speedforce",
+			"seed": -268657859759867628
+		},
+		{
+			"dim": "heroes:pocket_dimension",
+			"seed": -268657859759867628
+		},
+		{
+			"dim": "minecraft:the_nether",
+			"seed": -268657859759867628
+		},
+		{
+			"dim": "speedforce_by_yofadda:the_speedforce",
+			"seed": -268657859759867628
+		},
+		{
+			"dim": "ad_astra:moon",
+			"seed": -268657859759867628
+		},
+		{
+			"dim": "ad_astra:moon_orbit",
+			"seed": -268657859759867628
+		},
+		{
+			"dim": "minecraft:overworld",
+			"seed": -268657859759867628
+		},
+		{
+			"dim": "ad_astra:venus_orbit",
+			"seed": -268657859759867628
+		},
+		{
+			"dim": "fsang:pocket_dimension",
+			"seed": -268657859759867628
+		},
+		{
+			"dim": "ad_astra:mercury",
+			"seed": -268657859759867628
+		},
+		{
+			"dim": "ad_astra_dh:trash_x_1",
+			"seed": -268657859759867628
+		},
+		{
+			"dim": "ad_astra:earth_orbit",
+			"seed": -268657859759867628
+		},
+		{
+			"dim": "fsang:the_radiant",
+			"seed": -268657859759867628
+		},
+		{
+			"dim": "fsang:negative_speedforce",
+			"seed": -268657859759867628
+		},
+		{
+			"dim": "ad_astra:glacio",
+			"seed": -268657859759867628
+		},
+		{
+			"dim": "witherstormmod:bowels",
+			"seed": -268657859759867628
+		}
+	]
+}
